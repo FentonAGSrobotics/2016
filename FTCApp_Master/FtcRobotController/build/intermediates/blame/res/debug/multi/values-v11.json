@@ -1,0 +1,80 @@
+[
+    {
+        "outputFile": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1865,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 1999
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1826,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 1958
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1865,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 1999
+                    }
+                }
+            }
+        ]
+    }
+]

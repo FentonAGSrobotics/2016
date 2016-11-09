@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\nxtstartupsound.wav",
+        "source": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\nxtstartupsound.wav"
+    },
+    {
+        "merged": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\texture_vertex_shader.glsl",
+        "source": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\color_fragment_shader.glsl",
+        "source": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\color_fragment_shader.glsl"
+    },
+    {
+        "merged": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\warningmessage.wav",
+        "source": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\warningmessage.wav"
+    },
+    {
+        "merged": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\cube_mesh_fragment_shader.glsl",
+        "source": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\nxtstartupsound.wav",
+        "source": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\nxtstartupsound.wav"
+    },
+    {
+        "merged": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\errormessage.wav",
+        "source": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\errormessage.wav"
+    },
+    {
+        "merged": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\simple_vertex_shader.glsl",
+        "source": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\texture_fragment_shader.glsl",
+        "source": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\simple_vertex_shader.glsl",
+        "source": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\chimedisconnect.wav",
+        "source": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\chimedisconnect.wav"
+    },
+    {
+        "merged": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\texture_vertex_shader.glsl",
+        "source": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\chimedisconnect.wav",
+        "source": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\chimedisconnect.wav"
+    },
+    {
+        "merged": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\cube_mesh_fragment_shader.glsl",
+        "source": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\warningmessage.wav",
+        "source": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\warningmessage.wav"
+    },
+    {
+        "merged": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\chimeconnect.wav",
+        "source": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\chimeconnect.wav"
+    },
+    {
+        "merged": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\errormessage.wav",
+        "source": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\errormessage.wav"
+    },
+    {
+        "merged": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\nxtstartupsound.wav",
+        "source": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\nxtstartupsound.wav"
+    },
+    {
+        "merged": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\cube_mesh_vertex_shader.glsl",
+        "source": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\texture_fragment_shader.glsl",
+        "source": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\texture_vertex_shader.glsl",
+        "source": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\warningmessage.wav",
+        "source": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\warningmessage.wav"
+    },
+    {
+        "merged": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\errormessage.wav",
+        "source": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\errormessage.wav"
+    },
+    {
+        "merged": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\chimedisconnect.wav",
+        "source": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\chimedisconnect.wav"
+    },
+    {
+        "merged": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\cube_mesh_fragment_shader.glsl",
+        "source": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\color_fragment_shader.glsl",
+        "source": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\color_fragment_shader.glsl"
+    },
+    {
+        "merged": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\cube_mesh_vertex_shader.glsl",
+        "source": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\simple_vertex_shader.glsl",
+        "source": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\color_fragment_shader.glsl",
+        "source": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\color_fragment_shader.glsl"
+    },
+    {
+        "merged": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\texture_fragment_shader.glsl",
+        "source": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\chimeconnect.wav",
+        "source": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\chimeconnect.wav"
+    },
+    {
+        "merged": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\cube_mesh_vertex_shader.glsl",
+        "source": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\chimeconnect.wav",
+        "source": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\chimeconnect.wav"
+    }
+]

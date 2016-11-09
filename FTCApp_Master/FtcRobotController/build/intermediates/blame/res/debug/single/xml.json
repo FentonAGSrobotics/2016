@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\squarebot.xml",
+        "source": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\squarebot.xml"
+    },
+    {
+        "merged": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9usbbot.xml",
+        "source": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\k9usbbot.xml"
+    },
+    {
+        "merged": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9usbbot.xml",
+        "source": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\k9usbbot.xml"
+    },
+    {
+        "merged": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\pushbotsens.xml",
+        "source": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\pushbotsens.xml"
+    },
+    {
+        "merged": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\squarebot.xml",
+        "source": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\squarebot.xml"
+    },
+    {
+        "merged": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\pushbotsens.xml",
+        "source": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\pushbotsens.xml"
+    },
+    {
+        "merged": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9usbbot.xml",
+        "source": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\k9usbbot.xml"
+    },
+    {
+        "merged": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\squarebot.xml",
+        "source": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\squarebot.xml"
+    },
+    {
+        "merged": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9legacybot.xml",
+        "source": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\k9legacybot.xml"
+    },
+    {
+        "merged": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\pushbot.xml",
+        "source": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\pushbot.xml"
+    },
+    {
+        "merged": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\pushbot.xml",
+        "source": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\pushbot.xml"
+    },
+    {
+        "merged": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9legacybot.xml",
+        "source": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\k9legacybot.xml"
+    },
+    {
+        "merged": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\pushbotsens.xml",
+        "source": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\pushbotsens.xml"
+    },
+    {
+        "merged": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9legacybot.xml",
+        "source": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\k9legacybot.xml"
+    },
+    {
+        "merged": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\pushbot.xml",
+        "source": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\pushbot.xml"
+    }
+]

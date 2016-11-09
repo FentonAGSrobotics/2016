@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\icon_robotcontroller.png",
+        "source": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\icon_robotcontroller.png"
+    },
+    {
+        "merged": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\icon_menu.png",
+        "source": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\icon_menu.png"
+    },
+    {
+        "merged": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\icon_menu.png",
+        "source": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\icon_menu.png"
+    },
+    {
+        "merged": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\TigerTechFTC\\2016\\FTCApp_Master\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\icon_menu.png",
+        "source": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\icon_menu.png"
+    },
+    {
+        "merged": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\icon_robotcontroller.png",
+        "source": "D:\\FTC7643\\FTC_App-Master-7643_16-17\\2016-17\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\icon_robotcontroller.png"
+    },
+    {
+        "merged": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\icon_robotcontroller.png",
+        "source": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\icon_robotcontroller.png"
+    },
+    {
+        "merged": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Users\\mwright\\ftc_app\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    }
+]
