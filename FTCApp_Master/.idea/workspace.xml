@@ -1,943 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32c6b515-f988-4d03-8391-3da1ef562a4c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/assets/FTC_2016-17.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/assets/StonesAndChips.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_robotcontroller.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/assets/FTC_2016-17.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/assets/StonesAndChips.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/res/drawable-hdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/res/drawable-mdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/res/drawable-xhdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/res/drawable-xhdpi-v4/icon_menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/res/drawable-xhdpi-v4/icon_robotcontroller.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/res/drawable-xxhdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/google/blocks/R$array.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/google/blocks/R$color.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/google/blocks/R$dimen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/google/blocks/R$drawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/google/blocks/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/google/blocks/R$layout.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/google/blocks/R$menu.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/google/blocks/R$raw.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/google/blocks/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/google/blocks/R$style.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/google/blocks/R$xml.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/google/blocks/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/WirelessP2p/R$color.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/WirelessP2p/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/WirelessP2p/R$style.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/WirelessP2p/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/analyticsmodule/R$color.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/analyticsmodule/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/analyticsmodule/R$style.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/analyticsmodule/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftccommon/R$array.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftccommon/R$color.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftccommon/R$dimen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftccommon/R$drawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftccommon/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftccommon/R$layout.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftccommon/R$raw.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftccommon/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftccommon/R$style.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftccommon/R$xml.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftccommon/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftcrobotcontroller/BuildConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftcrobotcontroller/R$array.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftcrobotcontroller/R$attr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftcrobotcontroller/R$color.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftcrobotcontroller/R$dimen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftcrobotcontroller/R$drawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftcrobotcontroller/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftcrobotcontroller/R$layout.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftcrobotcontroller/R$menu.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftcrobotcontroller/R$raw.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftcrobotcontroller/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftcrobotcontroller/R$style.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftcrobotcontroller/R$xml.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/ftcrobotcontroller/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/hardware/R$color.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/hardware/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/hardware/R$layout.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/hardware/R$raw.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/hardware/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/hardware/R$style.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/hardware/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/modernrobotics/R$color.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/modernrobotics/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/modernrobotics/R$style.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/modernrobotics/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/robotcore/R$color.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/robotcore/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/robotcore/R$layout.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/robotcore/R$raw.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/robotcore/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/robotcore/R$style.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/qualcomm/robotcore/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/ConceptCompassCalibration.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/ConceptDIMAsIndicator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/ConceptI2cAddressChange.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/ConceptNullOp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/ConceptRampMotorSpeed.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/ConceptRegisterOpModes.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/ConceptScanServo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/ConceptTelemetry$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/ConceptTelemetry.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/ConceptVuforiaNavigation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/HardwareK9bot.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/HardwarePushbot.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/HardwarePushbotMatrix.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/K9botTeleopTank_Linear.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/PushbotAutoDriveByEncoder_Linear.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/PushbotAutoDriveByGyro_Linear.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/PushbotAutoDriveByTime_Linear.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/PushbotAutoDriveToLine_Linear.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/PushbotTeleopPOV_Linear.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/PushbotTeleopTank_Iterative.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorAdafruitIMU$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorAdafruitIMU$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorAdafruitIMU$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorAdafruitIMU$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorAdafruitIMU$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorAdafruitIMU$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorAdafruitIMU$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorAdafruitIMU$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorAdafruitIMU.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorAdafruitIMUCalibration$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorAdafruitIMUCalibration$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorAdafruitIMUCalibration$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorAdafruitIMUCalibration$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorAdafruitIMUCalibration$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorAdafruitIMUCalibration$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorAdafruitIMUCalibration.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorAdafruitRGB$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorAdafruitRGB.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorDIO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorHTColor$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorHTColor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorLEGOLight.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorLEGOTouch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRColor$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRColor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRCompass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRGyro.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRIrSeeker.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorMROpticalDistance.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRRangeSensor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/TemplateOpMode_Iterative.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/external/samples/TemplateOpMode_Linear.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/internal/FtcRobotControllerActivity$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/internal/FtcRobotControllerActivity$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/internal/FtcRobotControllerActivity$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/internal/FtcRobotControllerActivity$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/internal/FtcRobotControllerActivity$RobotRestarter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/internal/FtcRobotControllerActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/inspection/R$color.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/inspection/R$dimen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/inspection/R$drawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/inspection/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/inspection/R$layout.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/inspection/R$menu.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/inspection/R$raw.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/inspection/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/inspection/R$style.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/inspection/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Analytics-release/jars/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/FIRST_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/media/1x1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/media/click.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/media/click.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/media/click.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/media/delete.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/media/delete.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/media/delete.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/media/disconnect.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/media/disconnect.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/media/disconnect.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/media/handclosed.cur" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/media/handdelete.cur" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/media/handopen.cur" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/media/quote0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/media/quote1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/media/sprites.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcAccelerationSensor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcAnalogInput.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcAnalogOutput.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcCRServo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcColorSensor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcCompassSensor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcDcMotor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcDcMotorController.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcDeviceInterfaceModule.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcDigitalChannel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcElapsedTime.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcGamepad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcGyroSensor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcI2cDevice.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcI2cDeviceReader.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcI2cDeviceSynch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcIrSeekerSensor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcLED.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcLegacyModule.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcLightSensor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcLinearOpMode.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcOpMode.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcOpticalDistanceSensor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcPwmOutput.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcRobotController.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcServo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcServoController.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcTouchSensor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcTouchSensorMultiplexer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcUltrasonicSensor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/images/ftcVoltageSensor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/jars/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/res/drawable/icon_menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/jars/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/drawable-hdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/drawable-mdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/drawable-xhdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/drawable-xxhdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/chimeconnect.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/chimedisconnect.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/errormessage.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/nxtstartupsound.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/warningmessage.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Hardware-release/jars/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Inspection-release/jars/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Inspection-release/res/drawable/icon_menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Inspection-release/res/drawable/icon_robotcontroller.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/ModernRobotics-release/jars/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/assets/Buildings.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/assets/TextureTeapotBrass.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/jars/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/jars/libs/Vuforia.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/jars/libs/d2xx.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/jars/libs/gson-2.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/jars/libs/support-annotations-23.4.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/WirelessP2p-release/jars/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/compileDebugAidl/dependency.store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/compileReleaseAidl/dependency.store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/icon_menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/icon_robotcontroller.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/icon_menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/icon_robotcontroller.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/chimeconnect.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/chimedisconnect.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/errormessage.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/nxtstartupsound.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/warningmessage.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_robotcontroller.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/drawable/icon_menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/drawable/icon_robotcontroller.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/generated/mockable-android-23.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/apk/FtcDriverStation-release.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/apk/FtcRobotController-release.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/resources/background.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/resources/tab.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/resources/titlebar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/resources/titlebar_end.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/legal/LEGO Open Source License.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/media/chips.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/media/stones.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/media/target_chips_A4.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/media/target_chips_USLetter.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/media/target_stones_A4.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/media/target_stones_USLetter.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Analytics_release_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Blocks_release_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/FtcCommon_release_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Hardware_release_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Inspection_release_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ModernRobotics_release_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/RobotCore_release_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/WirelessP2p_release_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/android_android_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016-17.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FTCApp_Master.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build.release.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/buildConfig/androidTest/debug/com/qualcomm/ftcrobotcontroller/test/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/buildConfig/debug/com/qualcomm/ftcrobotcontroller/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/buildConfig/release/com/qualcomm/ftcrobotcontroller/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/androidTest/debug/com/google/blocks/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/androidTest/debug/com/qualcomm/WirelessP2p/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/androidTest/debug/com/qualcomm/analyticsmodule/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/androidTest/debug/com/qualcomm/ftccommon/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/androidTest/debug/com/qualcomm/ftcrobotcontroller/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/androidTest/debug/com/qualcomm/ftcrobotcontroller/test/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/androidTest/debug/com/qualcomm/hardware/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/androidTest/debug/com/qualcomm/modernrobotics/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/androidTest/debug/com/qualcomm/robotcore/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/androidTest/debug/org/firstinspires/inspection/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/debug/com/google/blocks/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/debug/com/qualcomm/WirelessP2p/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/debug/com/qualcomm/analyticsmodule/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/debug/com/qualcomm/ftccommon/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/debug/com/qualcomm/ftcrobotcontroller/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/debug/com/qualcomm/hardware/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/debug/com/qualcomm/modernrobotics/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/debug/com/qualcomm/robotcore/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/debug/org/firstinspires/inspection/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/release/com/google/blocks/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/release/com/qualcomm/WirelessP2p/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/release/com/qualcomm/analyticsmodule/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/release/com/qualcomm/ftccommon/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/release/com/qualcomm/ftcrobotcontroller/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/release/com/qualcomm/hardware/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/release/com/qualcomm/modernrobotics/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/release/com/qualcomm/robotcore/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/release/org/firstinspires/inspection/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/androidTest/debug/multi/values-sw720dp-land-v13.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/androidTest/debug/multi/values-v11.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/androidTest/debug/multi/values-v14.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/androidTest/debug/multi/values-w820dp-v13.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/androidTest/debug/multi/values.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/androidTest/debug/single/drawable-mdpi-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/androidTest/debug/single/drawable-xhdpi-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/androidTest/debug/single/drawable-xxhdpi-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/androidTest/debug/single/drawable.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/androidTest/debug/single/layout.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/androidTest/debug/single/menu.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/androidTest/debug/single/raw.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/androidTest/debug/single/xml.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/debug/multi/values-sw720dp-land-v13.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/debug/multi/values-v11.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/debug/multi/values-v14.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/debug/single/drawable.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/debug/single/layout.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/debug/single/menu.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/debug/single/raw.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/debug/single/xml.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/release/multi/values-sw720dp-land-v13.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/release/multi/values-v11.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/release/multi/values-v14.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/release/multi/values-w820dp-v13.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/release/multi/values.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/release/single/drawable-hdpi-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/release/single/drawable-mdpi-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/release/single/drawable-xhdpi-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/release/single/drawable-xxhdpi-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/release/single/drawable.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/release/single/layout.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/release/single/menu.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/release/single/raw.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/release/single/xml.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/R.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/assets/FTC_2016-17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/assets/StonesAndChips.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/res/layout/activity_ftc_controller.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/res/layout/header.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/res/menu/ftc_robot_controller.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/res/values-v11/values-v11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/res/values-v14/values-v14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/res/values-w820dp-v13/values-w820dp-v13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/res/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/res/xml/device_filter.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/debug/res/xml/preferences.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/R.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/assets/FTC_2016-17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/assets/StonesAndChips.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/res/layout/activity_ftc_controller.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/res/layout/header.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/res/menu/ftc_robot_controller.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/res/values-v11/values-v11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/res/values-v14/values-v14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/res/values-w820dp-v13/values-w820dp-v13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/res/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/res/xml/device_filter.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/res/xml/preferences.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Analytics-release/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Analytics-release/R.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Analytics-release/aapt/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/R.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/aapt/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/FtcBlocks.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/FtcHelp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/FtcProjects.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/blockly_compressed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/blocks_compressed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/javascript_compressed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/media/sprites.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blockly/msg/js/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/acceleration_sensor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/analog_input.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/analog_output.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/color.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/color_sensor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/comment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/compass_sensor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/cr_servo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/dc_motor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/digital_channel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/elapsed_time.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/gamepad.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/gyro_sensor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/hardware_util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/ir_seeker_sensor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/led.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/light_sensor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/linear_op_mode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/mr_i2c_compass_sensor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/mr_i2c_range_sensor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/optical_distance_sensor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/project_util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/servo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/servo_controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/telemetry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/toolbox_util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/touch_sensor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/ultrasonic_sensor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/vars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/blocks/voltage_sensor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/toolbox/color.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/toolbox/elapsed_time.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/toolbox/gamepad.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/toolbox/images.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/toolbox/linear_op_mode.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/toolbox/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/assets/toolbox/telemetry.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/res/drawable/black_border.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/res/layout/activity_blocks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/res/layout/activity_programming_mode.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/res/menu/menu_server.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/res/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/R.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/aapt/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/assets/RobotConfig.xsd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/assets/RobotConfigDescriptionGenerate.xslt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/assets/RobotConfigTaxonomy.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/assets/RobotConfigTaxonomy.xsd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/drawable-hdpi-v4/button_shape.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/drawable/button_shape.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/activity_about.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/activity_config_wifi_direct.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/activity_configure_from_template.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/activity_ftc_configuration.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/activity_ftc_wifi_channel_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/activity_load.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/activity_swap_usb_devices.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/activity_view_logs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/analog_input_device.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/analog_inputs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/analog_output_device.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/analog_outputs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/banner_parent.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/button_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/darker_gray_line.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/device_interface_module.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/digital_device.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/digital_devices.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/file_info.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/header.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/i2c_device.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/i2cs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/info_button.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/item_list_parent.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/legacy.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/matrices.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/matrix_devices.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/motor.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/motor_controller_banner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/motor_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/orange_warning.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/port_attached_row.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/pwm_device.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/pwms.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/red_line.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/servo.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/servo_controller_banner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/servo_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/shape.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/simple_device.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/layout/template_info.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/values-v11/values-v11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/values-v14/values-v14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/values-w820dp-v13/values-w820dp-v13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/k9legacybot.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/k9usbbot.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/preferences.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/pushbot.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/pushbotsens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/squarebot.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Hardware-release/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Hardware-release/R.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Hardware-release/aapt/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Hardware-release/res/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Inspection-release/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Inspection-release/R.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Inspection-release/aapt/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Inspection-release/res/layout/activity_inspection.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Inspection-release/res/menu/main_menu.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Inspection-release/res/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/ModernRobotics-release/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/ModernRobotics-release/R.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/ModernRobotics-release/aapt/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/R.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/aapt/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/assets/Buildings.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/layout/loading_indicator_overlay.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/color_fragment_shader.glsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/cube_mesh_fragment_shader.glsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/cube_mesh_vertex_shader.glsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/simple_vertex_shader.glsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/texture_fragment_shader.glsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/texture_vertex_shader.glsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/values-v11/values-v11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/values-v14/values-v14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/WirelessP2p-release/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/WirelessP2p-release/R.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/WirelessP2p-release/aapt/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental-safeguard/release/tag.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v11/values-v11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v14/values-v14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeReleaseAssets/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v11/values-v11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v14/values-v14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeReleaseResources/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeReleaseShaders/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugResources/merged.dir/values-v11/values-v11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugResources/merged.dir/values-v14/values-v14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugResources/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageReleaseResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageReleaseResources/merged.dir/values-v11/values-v11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageReleaseResources/merged.dir/values-v14/values-v14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageReleaseResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageReleaseResources/merged.dir/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageReleaseResources/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/manifests/aapt/release/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/button_shape.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/black_border.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/button_shape.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_about.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_blocks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_config_wifi_direct.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_configure_from_template.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_ftc_configuration.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_ftc_controller.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_ftc_wifi_channel_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_inspection.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_load.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_programming_mode.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_swap_usb_devices.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_view_logs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/analog_input_device.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/analog_inputs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/analog_output_device.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/analog_outputs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/banner_parent.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/button_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/darker_gray_line.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/device_interface_module.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/digital_device.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/digital_devices.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/file_info.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/header.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/i2c_device.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/i2cs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/info_button.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/item_list_parent.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/legacy.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/loading_indicator_overlay.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/matrices.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/matrix_devices.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/motor.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/motor_controller_banner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/motor_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/orange_warning.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/port_attached_row.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/pwm_device.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/pwms.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/red_line.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/servo.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/servo_controller_banner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/servo_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/shape.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/simple_device.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/template_info.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/menu/ftc_robot_controller.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/menu/main_menu.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/menu/menu_server.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/color_fragment_shader.glsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/cube_mesh_fragment_shader.glsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/cube_mesh_vertex_shader.glsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/simple_vertex_shader.glsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/texture_fragment_shader.glsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/texture_vertex_shader.glsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/values-v11/values-v11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/values-v14/values-v14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/values-w820dp-v13/values-w820dp-v13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/device_filter.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/k9legacybot.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/k9usbbot.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/preferences.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/pushbot.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/pushbotsens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/squarebot.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_shape.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/drawable/black_border.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/drawable/button_shape.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_about.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_blocks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_config_wifi_direct.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_configure_from_template.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_ftc_configuration.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_ftc_controller.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_ftc_wifi_channel_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_inspection.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_load.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_programming_mode.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_swap_usb_devices.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_view_logs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/analog_input_device.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/analog_inputs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/analog_output_device.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/analog_outputs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/banner_parent.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/button_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/darker_gray_line.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/device_interface_module.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/digital_device.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/digital_devices.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/file_info.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/header.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/i2c_device.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/i2cs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/info_button.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/item_list_parent.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/legacy.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/loading_indicator_overlay.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/matrices.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/matrix_devices.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/motor.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/motor_controller_banner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/motor_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/orange_warning.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/port_attached_row.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/pwm_device.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/debug/layout/pwms.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.common.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/allclasses-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/allclasses-noframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/AboutActivity.Item.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/AboutActivity.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/ClassManagerFactory.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/CommandList.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/ConfigWifiDirectActivity.Flag.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/ConfigWifiDirectActivity.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/DbgLog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/Device.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcEventLoop.DefaultUsbModuleAttachmentHandler.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcEventLoop.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcEventLoopBase.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcEventLoopHandler.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcEventLoopIdle.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcRobotControllerService.FtcRobotControllerBinder.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcRobotControllerService.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcRobotControllerSettingsActivity.SettingsFragment.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcRobotControllerSettingsActivity.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcWifiChannelSelectorActivity.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/LaunchActivityConstantsList.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/ProgrammingModeController.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/Restarter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/SoundPlayer.LoadedSoundCache.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/SoundPlayer.SoundInfo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/SoundPlayer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/UpdateUI.Callback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/UpdateUI.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/UsbModuleAttachmentHandler.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/ViewLogsActivity.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/EventLoop.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/EventLoopManager.EventLoopMonitor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/EventLoopManager.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/SyncdDevice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/AnnotatedOpModeManager.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/AnnotatedOpModeRegistrar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/Autonomous.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/Disabled.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/LinearOpMode.LinearOpModeHelper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/LinearOpMode.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/OpMode.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/OpModeAndMeta.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/OpModeManager.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/OpModeManagerImpl.DefaultOpMode.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/OpModeManagerImpl.OpModeObjectAndMeta.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/OpModeManagerImpl.OpModeState.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/OpModeManagerImpl.OpModeStuckCodeMonitor.Runner.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/OpModeManagerImpl.OpModeStuckCodeMonitor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/OpModeManagerImpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/OpModeManagerNotifier.Notifications.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/OpModeManagerNotifier.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/OpModeMeta.Flavor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/OpModeMeta.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/OpModeRegister.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/OpModeRegistrar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/TeleOp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/exception/DuplicateNameException.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/exception/FTDeviceClosedException.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/exception/FTDeviceIncompleteInitializationException.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/exception/RobotCoreException.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/exception/RobotCoreNonResponsiveException.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/exception/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/exception/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/exception/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/AccelerationSensor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/AnalogInput.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/AnalogInputController.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/AnalogOutput.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/AnalogOutputController.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/AnalogSensor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/CRServo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/CRServoImpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/ColorSensor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/CompassSensor.CompassMode.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/CompassSensor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DcMotor.RunMode.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DcMotor.ZeroPowerBehavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DcMotor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DcMotorController.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DcMotorControllerEx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DcMotorEx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DcMotorImpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DcMotorImplEx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DcMotorSimple.Direction.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DcMotorSimple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DeviceInterfaceModule.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DeviceManager.DeviceType.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DeviceManager.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DigitalChannel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DigitalChannelController.Mode.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DigitalChannelController.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DistanceSensor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/Engagable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/Gamepad.GamepadCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/Gamepad.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/GyroSensor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/HardwareDevice.Manufacturer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/HardwareDevice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/HardwareMap.DeviceMapping.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/HardwareMap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cAddr.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cAddrConfig.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cAddressableDevice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cController.I2cPortReadyBeginEndNotifications.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cController.I2cPortReadyCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cController.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cControllerPortDevice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cControllerPortDeviceImpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDevice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceImpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceReader.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynch.HeartbeatAction.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynch.ReadMode.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynch.ReadWindow.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynch.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynchDevice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynchImpl.CONTROLLER_PORT_MODE.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynchImpl.Callback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynchImpl.READ_CACHE_STATUS.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynchImpl.WRITE_CACHE_STATUS.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynchImpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynchImplOnSimple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynchSimple.TimestampedData.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynchSimple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/IrSeekerSensor.IrSeekerIndividualSensor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/IrSeekerSensor.Mode.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/IrSeekerSensor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/LED.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/LegacyModule.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/LegacyModulePortDevice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/LegacyModulePortDeviceImpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/LightSensor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/OpticalDistanceSensor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/PWMOutput.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/PWMOutputController.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/PWMOutputControllerEx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/PWMOutputEx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/PWMOutputImpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/PWMOutputImplEx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/Servo.Direction.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/Servo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/ServoController.PwmStatus.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/ServoController.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/ServoControllerEx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/ServoEx.ServoPwmRange.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/ServoEx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/ServoImpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/ServoImplEx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/TouchSensor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/TouchSensorMultiplexer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/UltrasonicSensor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/VoltageSensor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/util/ElapsedTime.Resolution.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/util/ElapsedTime.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/util/Range.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/util/SerialNumber.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/util/TypeConversion.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/util/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/util/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/util/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/constant-values.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/deprecated-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/help-doc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/index-all.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/ClassFactory.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/Const.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/Consumer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/Func.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/NonConst.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/Telemetry.Item.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/Telemetry.Line.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/Telemetry.Log.DisplayOrder.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/Telemetry.Log.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/Telemetry.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/ColumnMajorMatrixF.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/ColumnMatrixF.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/DenseMatrixF.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/GeneralMatrixF.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/MatrixF.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/OpenGLMatrix.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/RowMajorMatrixF.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/RowMatrixF.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/SliceMatrixF.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/VectorF.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/Acceleration.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/AngleUnit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/AngularVelocity.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/AxesOrder.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/AxesReference.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/DistanceUnit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/MagneticFlux.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/NavUtil.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/Orientation.AngleSet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/Orientation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/Position.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/Quaternion.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/TempUnit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/Temperature.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/Velocity.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/VuforiaLocalizer.CameraDirection.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/VuforiaLocalizer.CloseableFrame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/VuforiaLocalizer.Parameters.CameraMonitorFeedback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/VuforiaLocalizer.Parameters.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/VuforiaLocalizer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/VuforiaTrackable.Listener.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/VuforiaTrackable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/VuforiaTrackableDefaultListener.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/VuforiaTrackables.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/overview-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/overview-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/overview-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/package-list" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/serialized-form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/stylesheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/legal/AudioBlocksSounds.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/legal/Exhibit A - LEGO Open Source License Agreement.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/media/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/tutorial/README.txt" />
+    <list default="true" id="c82d68e3-4454-4a76-8bdf-1bedc83ff0f6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Analytics_release_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Analytics_release_.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/FtcCommon_release_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/FtcCommon_release_.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Hardware_release_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Hardware_release_.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/ModernRobotics_release_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/ModernRobotics_release_.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/RobotCore_release_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/RobotCore_release_.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/WirelessP2p_release_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/WirelessP2p_release_.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" afterPath="$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" />
     </list>
     <ignored path="FTCApp_Master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -960,20 +34,6 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="FTCApp_Master" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="TigerTechHardware.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/TigerTechHardware.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -3491,6 +2551,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -3499,12 +2560,39 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FTCApp_Master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamCode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FTCApp_Master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamCode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="teamcode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3698,16 +2786,13 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="32c6b515-f988-4d03-8391-3da1ef562a4c" name="Default" comment="" />
-      <created>1478667861892</created>
+      <changelist id="c82d68e3-4454-4a76-8bdf-1bedc83ff0f6" name="Default" comment="" />
+      <created>1478717519403</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1478667861892</updated>
+      <updated>1478717519403</updated>
     </task>
     <servers />
   </component>
@@ -3716,45 +2801,37 @@
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24986508" sideWeight="0.5021618" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986508" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986508" sideWeight="0.49783817" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-  </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -3762,23 +2839,5 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/TigerTechHardware.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/TigerTechHardware.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
